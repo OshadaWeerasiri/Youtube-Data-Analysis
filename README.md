@@ -36,6 +36,21 @@ This project demonstrates an end-to-end data engineering pipeline built on AWS t
 
 ### Architecture
 
+![Architecture](architecture.jpeg)
+
+---
+
+### Data Set
+
+⚫Source: Kaggle - Trending YouTube Video Statistics
+
+⚫Includes daily trending video data (CSV) per country and a category metadata file (JSON)
+
+---
+
+### Dashboard Preview
+
+
 
 
 
