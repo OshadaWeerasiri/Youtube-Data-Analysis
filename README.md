@@ -50,6 +50,8 @@ This project demonstrates an end-to-end data engineering pipeline built on AWS t
 
 ### Dashboard Preview
 
+![dashboard](dashboard.png)
+
 
 
 
